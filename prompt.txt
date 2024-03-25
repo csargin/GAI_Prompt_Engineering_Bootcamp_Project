@@ -12,4 +12,4 @@ The Lord of the Rings: The Return of the King (2003) - IMDb rating: 9.01
 Pulp Fiction (1994) - IMDb rating: 8.91
 The Lord of the Rings: The Fellowship of the Ring (2001) - IMDb rating: 8.91
 
-*** create a web page with Bootstrap, JS, CSS that contains 9 best movies from IMDB with highest scores. Save each component as different files. Use movie1 … movie9 as movie names and movie1.jpg … movie9.jpg as images. Create a 3*3 table which contains movie names and pictures. Use header, main, nav, section.
+*** create a web page with Bootstrap, JS, CSS that contains 9 best movies from IMDB with highest scores. Save each component as different files. Use movie names and information from previous prompt and movie1.jpg … movie9.jpg as image names. Create a 3*3 table which contains movie names, score, year and pictures. Use header, main, nav, section.
