@@ -1,14 +1,14 @@
  document.addEventListener('DOMContentLoaded', function() {
     var movies = [
-        {title: 'The Shawshank Redemption', year: 1994, score: 9.3, image: 'movie1.jpg'},
-        {title: 'The Godfather', year: 1972, score: 9.2, image: 'movie2.jpg'},
-        {title: 'The Dark Knight', year: 2008, score: 9.01, image: 'movie3.jpg'},
-        {title: 'The Godfather Part II', year: 1974, score: 9.01, image: 'movie4.jpg'},
-        {title: '12 Angry Men', year: 1957, score: 9.01, image: 'movie5.jpg'},
-        {title: 'Schindlers List', year: 1993, score: 9.01, image: 'movie5.jpg'},
-        {title: 'The Lord of the Rings: The Return of the King', year: 2003, score: 9.01, image: 'movie7.jpg'},
-        {title: 'Pulp Fiction', year: 1994, score: 8.91, image: 'movie8.jpg'},
-        {title: 'The Lord of the Rings: The Fellowship of the Ring', year: 2001, score: 8.91, image: 'movie9.jpg'},
+        {title: 'The Shawshank Redemption', year: 1994, score: 9.3, image: 'img/movie1.jpg'},
+        {title: 'The Godfather', year: 1972, score: 9.2, image: 'img/movie2.jpg'},
+        {title: 'The Dark Knight', year: 2008, score: 9.01, image: 'img/movie3.jpg'},
+        {title: 'The Godfather Part II', year: 1974, score: 9.01, image: 'img/movie4.jpg'},
+        {title: '12 Angry Men', year: 1957, score: 9.01, image: 'img/movie5.jpg'},
+        {title: 'Schindlers List', year: 1993, score: 9.01, image: 'img/movie5.jpg'},
+        {title: 'The Lord of the Rings: The Return of the King', year: 2003, score: 9.01, image: 'img/movie7.jpg'},
+        {title: 'Pulp Fiction', year: 1994, score: 8.91, image: 'img/movie8.jpg'},
+        {title: 'The Lord of the Rings: The Fellowship of the Ring', year: 2001, score: 8.91, image: 'img/movie9.jpg'},
 
     ];
 
