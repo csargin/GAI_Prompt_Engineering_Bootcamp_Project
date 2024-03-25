@@ -1,1 +1,4 @@
-// Your JavaScript code here
+// script.js
+// Add any JavaScript functionality here
+
+
