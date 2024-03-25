@@ -5,26 +5,6 @@ header {
     text-align: center;
 }
 #movies {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
-.movie {
-    margin: 20px;
-}
-
-
-
-
-
-
-body {
-    font-family: Arial, sans-serif;
-}
-header {
-    text-align: center;
-}
-#movies {
     width: 100%;
     text-align: center;
 }
