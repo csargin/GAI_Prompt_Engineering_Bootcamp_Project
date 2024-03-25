@@ -12,3 +12,19 @@ header {
 .movie {
     margin: 20px;
 }
+
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    text-align: center;
+}
+#movies {
+    width: 100%;
+    text-align: center;
+}
