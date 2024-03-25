@@ -1,40 +1,27 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IMDb Film Showcase</title>
+    <title>Movie Showcase</title>
     <!-- Include Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Include your custom CSS (optional) -->
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="container mt-5">
-        <!-- Nav tabs -->
-        <ul class="nav nav-tabs" id="filmTabs" role="tablist">
-            <li class="nav-item">
-                <a class="nav-link active" id="film1-tab" data-toggle="tab" href="#film1" role="tab" aria-controls="film1" aria-selected="true">Film 1</a>
-            </li>
-            <!-- Add more tabs (up to 10) -->
-            <!-- Example: -->
-            <!-- <li class="nav-item">
-                <a class="nav-link" id="film2-tab" data-toggle="tab" href="#film2" role="tab" aria-controls="film2" aria-selected="false">Film 2</a>
-            </li> -->
-        </ul>
-
-        <!-- Tab content -->
-        <div class="tab-content" id="filmTabsContent">
-            <div class="tab-pane fade show active" id="film1" role="tabpanel" aria-labelledby="film1-tab">
-                <h3>Film 1</h3>
-                <img src="film1.jpg" alt="Film 1 Poster" class="img-fluid">
-                <!-- Add film details here -->
+        <div class="row">
+            <!-- Cell 1 -->
+            <div class="col-md-4">
+                <img src="movie1.jpg" alt="Movie 1 Poster" class="img-fluid">
+                <h4 class="mt-3">Movie 1</h4>
             </div>
-            <!-- Add more tab content (up to 10) -->
+            <!-- Add more cells (up to 10) -->
             <!-- Example: -->
-            <!-- <div class="tab-pane fade" id="film2" role="tabpanel" aria-labelledby="film2-tab">
-                <h3>Film 2</h3>
-                <img src="film2.jpg" alt="Film 2 Poster" class="img-fluid">
-                Add film details here
+            <!-- <div class="col-md-4">
+                <img src="movie2.jpg" alt="Movie 2 Poster" class="img-fluid">
+                <h4 class="mt-3">Movie 2</h4>
             </div> -->
         </div>
     </div>
@@ -43,59 +30,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</body>
-</html>
-
-
-
-
-
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IMDb Top Movies Showcase</title>
-    <!-- Include Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-</head>
-<body>
-    <div class="container mt-5">
-        <!-- Nav tabs -->
-        <ul class="nav nav-tabs" id="filmTabs" role="tablist">
-            <!-- Replace with actual movie titles -->
-            <li class="nav-item">
-                <a class="nav-link active" id="film1-tab" data-toggle="tab" href="#film1" role="tab" aria-controls="film1" aria-selected="true">The Shawshank Redemption</a>
-            </li>
-            <!-- Add more tabs (up to 10) -->
-            <!-- Example: -->
-            <!-- <li class="nav-item">
-                <a class="nav-link" id="film2-tab" data-toggle="tab" href="#film2" role="tab" aria-controls="film2" aria-selected="false">Film 2</a>
-            </li> -->
-        </ul>
-
-        <!-- Tab content -->
-        <div class="tab-content" id="filmTabsContent">
-            <!-- Replace with actual movie details -->
-            <div class="tab-pane fade show active" id="film1" role="tabpanel" aria-labelledby="film1-tab">
-                <h3>The Shawshank Redemption</h3>
-                <img src="shawshank_redemption.jpg" alt="Shawshank Redemption Poster" class="img-fluid">
-                <!-- Add film details here -->
-            </div>
-            <!-- Add more tab content (up to 10) -->
-            <!-- Example: -->
-            <!-- <div class="tab-pane fade" id="film2" role="tabpanel" aria-labelledby="film2-tab">
-                <h3>Film 2</h3>
-                <img src="film2.jpg" alt="Film 2 Poster" class="img-fluid">
-                Add film details here
-            </div> -->
-        </div>
-    </div>
-
-    <!-- Include Bootstrap JS (optional) -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <!-- Include your custom JavaScript (optional) -->
+    <script src="scripts.js"></script>
 </body>
 </html>
