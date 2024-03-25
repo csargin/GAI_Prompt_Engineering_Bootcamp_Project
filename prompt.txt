@@ -1,52 +1,15 @@
-
-
-what is the top 9 ranked best score movies at idmb.com
-
+*** what is the top 9 ranked best score movies at idmb.com
 
 Here are the top 9 ranked movies on IMDb:
 
-
-The Shawshank Redemption
-The Shawshank Redemption
 The Shawshank Redemption (1994) - IMDb rating: 9.31
-
-The Godfather
-The Godfather
 The Godfather (1972) - IMDb rating: 9.21
-
-The Dark Knight
-The Dark Knight
 The Dark Knight (2008) - IMDb rating: 9.01
-
-The Godfather Part II
-The Godfather Part II
 The Godfather Part II (1974) - IMDb rating: 9.01
-
-12 Angry Men
-12 Angry Men
 12 Angry Men (1957) - IMDb rating: 9.01
-
-Schindler's List
-Schindler's List
 Schindler’s List (1993) - IMDb rating: 9.01
-
-The Lord of the Rings: The Return of the King
-The Lord of the Rings: The Return of the King
 The Lord of the Rings: The Return of the King (2003) - IMDb rating: 9.01
-
-Pulp Fiction
-Pulp Fiction
 Pulp Fiction (1994) - IMDb rating: 8.91
-
-The Lord of the Rings: The Fellowship of the Ring
-The Lord of the Rings: The Fellowship of the Ring
 The Lord of the Rings: The Fellowship of the Ring (2001) - IMDb rating: 8.91
 
-
-
-
-
-
-
-
-create a web page with Bootstrap, JS, CSS that contains 9 best movies from IMDB with highest scores. Save each component as different files. Use movie1 … movie9 as movie names and movie1.jpg … movie9.jpg as images. Create a table which contains movie names and pictures. Use header, main, nav, section.
+*** create a web page with Bootstrap, JS, CSS that contains 9 best movies from IMDB with highest scores. Save each component as different files. Use movie1 … movie9 as movie names and movie1.jpg … movie9.jpg as images. Create a 3*3 table which contains movie names and pictures. Use header, main, nav, section.
