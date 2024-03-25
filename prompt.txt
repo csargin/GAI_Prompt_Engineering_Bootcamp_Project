@@ -1,1 +1,2 @@
 
+create a web page with Bootstrap, JS, CSS that contains 9 best movies from IMDB with highest scores. Save each component as different files. Use movie1 … movie9 as movie names and movie1.jpg … movie9.jpg as images. Create a table which contains movie names and pictures. Use header, main, nav, section.
